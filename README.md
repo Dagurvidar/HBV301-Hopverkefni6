@@ -47,6 +47,12 @@ FR13 [Kennari skoðar áfanga og sér dreifirit yfir einkunnir allra nemenda.] /
 
 FR14 [Kerfið á að sýna meðaleinkunn og staðalfrávik fyrir bekkinn.] //Tvær kröfur í einni
 
+Stílleiðbeiningar og bestu venjur sem breytingar skulu fylgja:
+- Forðast óljós orð eins og rétt/rangt, hratt, of stór o.s.frv.
+- Nota "skal" í upphafi krafa
+- Forðast og/eða í kröfum. Þ.e.a.s. tvær kröfur dulbúin sem ein
+- kröfur skulu vera mælanlegar og prófanlegar
+- Kröfur skulu vera skrifaðar í virku formi (t.d. kerfið skal en ekki það skal vera hægt að...)
 
 ## Tenglar
 
