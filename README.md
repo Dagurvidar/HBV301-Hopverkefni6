@@ -25,7 +25,8 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 ## Hópur
 Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir     
 Setjið gjarnan upp sem töflu
-Dagur:
+
+Dagur Ingi Viðar. Hlutverk: endurskrifa eftirfarandi kröfur:
 
 FR1	[Kerfið á að leyfa nemanda að hlaða upp verkefnaskrá í PDF eða DOCX formi.] //fjarlægja docx skilyrði, þetta eru tvær kröfur
 
@@ -36,7 +37,7 @@ FR3   [Kerfið á að gefa villuboð ef skráin er í röngu sniði eða of stó
 FR5	[Kerfið á að senda tölvupóst eða tilkynningu í appi þegar skil hefur verið móttekið.] // ótvírætt og í raun tvær kröfur í einu. Hvenær email og hvenær tilkynning
 
 
-Stefán:
+Stefán Steinar Guðlaugsson. Hlutverk: endurskrifa eftirfarandi kröfur:
 
 FR6	[Kerfið á að geyma skráða staðfestingu sem nemandi getur skoðað síðar.] //illa orðuð, meikar ekki sense í samhengi. Breyta t.d. í að nemandi sjái verkefni í kerfinu þegar því er skilað með skilaboðum eins og "bíður einkunn"
 
